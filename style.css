@@ -87,7 +87,7 @@ body {
     margin-bottom: 25px;
     object-fit: cover; 
     object-position: center; 
-    background-image: url('/img/eda.jpg'); 
+    background-image: url('img/eda.jpg'); 
     background-size: cover; 
     background-position: center;
     transition: transform 0.3s, box-shadow 0.3s;
